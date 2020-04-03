@@ -1,6 +1,6 @@
 # calculadora
 
-## Para testar
+## Para executar os testes
 
 ```
 mvn test
